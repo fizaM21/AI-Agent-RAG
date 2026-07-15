@@ -1,0 +1,27 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Generated vector database
+vector_db/
+
+# Uploaded files
+uploads/
+
+# Local documents
+documents/
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
